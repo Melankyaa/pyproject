@@ -1,0 +1,7 @@
+:root{
+    --default-color:white;
+    --default-border-radius:50%;
+    --default-background-color:rgb(232, 193, 142);
+    --default-second-bg-color:antiquewhite;
+    --default-font:font-family:'Courier New', Courier, monospace;
+}
